@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Přihlašovací údaje Hik-Connect",
+        "data": {
+          "username": "Uživatelské jméno",
+          "password": "Heslo"
+        }
+      }
+    },
+    "error": {
+      "login_failed": "Selhání autentizace. Může to být špatná kombinace uživatelského jména a hesla nebo CAPTCHA. Zkuste se přihlásit pomocí oficiální aplikace Hik-Connect.",
+      "unknown": "Neznámá chyba."
+    },
+    "abort": {
+      "already_configured": "Pro toto uživatelské jméno je již nakonfigurováno."
+    }
+  }
+}
